@@ -1,5 +1,5 @@
 # Website for {ananta.js.org}
-This is the github repo for webiste ananta.org.np
+This is the github repo for website ananta.org.np
 
 ## Installation
 
