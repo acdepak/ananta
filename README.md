@@ -17,4 +17,4 @@ Please make sure to update tests as appropriate.```
 
 ## License
 
-<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/dustman">
+<img alt="APM badge" src="https://img.shields.io/badge/license-MIT-green">
